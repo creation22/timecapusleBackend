@@ -1,0 +1,22 @@
+{
+  "name": "time-capsule-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "��#\u0000 \u0000t\u0000i\u0000m\u0000e\u0000c\u0000a\u0000p\u0000u\u0000s\u0000l\u0000e\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase": "^11.9.1",
+    "firebase-admin": "^13.4.0",
+    "node-cron": "^4.1.1",
+    "resend": "^4.6.0"
+  }
+}
